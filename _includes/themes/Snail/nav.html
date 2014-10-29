@@ -12,11 +12,11 @@
 					{% if page.url == node.url %}
 					<li  id = "{{node.title}}" class="active">
 					<span class="nav-l-active"></span>
-					<a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a>
+					<a href="{{node.url}}" class="active">{{node.title}}</a>
 					<span class="nav-r-active"></span>
 					</li>
 					{% else %}
-					<li id = "{{node.title}}"><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+					<li id = "{{node.title}}"><a href="{{node.url}}">{{node.title}}</a></li>
 					{% endif %}
 				  {% endif %}
 				{% endif %}
