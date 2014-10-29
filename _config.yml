@@ -34,7 +34,7 @@ contact :
 # Links showed on the footer6
 #
 links :
-  Blog : http://DutZMZ.github.io/Zuijishu
+  Blog : http://dutzmz.github.io
 
 # The search engine. Only support google custom search engine.
 #
@@ -104,7 +104,7 @@ JB :
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
     #BASE_PATH : /
-  BASE_PATH : http://DutZMZ.github.io/Zuijishu
+  BASE_PATH : http://dutzmz.github.io
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
