@@ -30,7 +30,7 @@
 	font-weight:bold;
 	color:#333;
 	padding:10px 0;
-	font-family:"droid sans",arial,sans-serif;
+	font-family:"Microsoft Yahei","droid sans",arial,sans-serif;
 }
 #journal-post h1#journal-main-title {
 	position:absolute;
@@ -51,7 +51,7 @@
 	color:#666;
 	width:400px;
 	line-height:22px;
-	font-family:'Open Sans',arial,sans-serif;
+	font-family:"Microsoft Yahei",'Open Sans',arial,sans-serif;
 }
 #journal-articles-block h1 {
 	font-size:32px;
@@ -59,7 +59,7 @@
 	display:inline-block;
 	color:#333;
 	line-height:30px;
-	font-family:'Open Sans',arial,sans-serif;
+	font-family:"Microsoft Yahei",'Open Sans',arial,sans-serif;
 	font-weight:300;
 }
 #journal-articles-block h1,#journal-articles-block h1 a {
@@ -107,7 +107,7 @@
 	text-align: left;
 	clear:both;
 	display:block;
-	font-family:'Open Sans','Droid Sans',arial,sans-serif;
+	font-family:"Microsoft Yahei",'Open Sans','Droid Sans',arial,sans-serif;
 }
 
 #journal-articles-block .journal-article .journal-body span.the-article {
