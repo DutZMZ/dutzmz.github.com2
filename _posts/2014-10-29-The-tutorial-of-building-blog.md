@@ -67,7 +67,9 @@ Github发布了windows版本的管理工具--Github for windows，[这里](http:
 
 + 文件名的命名规则为：YYYY-MM-DD-filename,其中YYYY-MM-DD为日期。
 + 每个模板都有自己的博客格式，最好先看看已有的博客是怎么样写的。比如simpleyyt的博客开始必须为一下内容：
-```
+
+{% highlight c %}
+
 ---
 layout: post
 category: android
@@ -75,10 +77,8 @@ title: 强化你的Terminal IDE——在android平板/手机上编写C/C++
 tagline: by Snail
 tags: [android, c++, c]
 ---
-```
+{% endhighlight c %}
+
 其中layout不能改，category是博客的归类，可以修改。title是博客显示在网页上的名字，tagline表明作者，tags是博客内容的关键字，可以有多个，必须使用英文的逗号分隔，并且逗号后紧跟一个空格。
 
 至此，我们完成了博客的搭建过程，当然，如果你有能力，可以对其中的一些内容作修改。这里，小z就不带大家一起做了。谢谢大家。
-
-
-
