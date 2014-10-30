@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Jekyll
-title: 基于Jekyll和github的个人博客搭建经历
+title: 基于Jekyll和github的个人博客搭建(初级)
 tagline: by zmz
 tags: [Jekyll, github]
 ---
@@ -31,9 +31,6 @@ Github发布了windows版本的管理工具--Github for windows，[这里](http:
 好了，到这里，小z假定你已经有了Github的帐号，并且成功安装了Github for windows工具。我们离成功进了一小步——只要：进步，就是好的。
 
 小z的Github帐号是：**DutZMZ**，下面会以该帐号讲解。
-
-##安装Ruby
-[Ruby](http://baike.baidu.com/subview/45135/5977034.htm?fr=aladdin)是一种面向对象的脚本语言，小z对该语言完全不懂，但不碍事，我们不需要对Ruby了解那么多，只要按步骤把Ruby的开发平台安上就可以了。
 
 ##3.搭建
 ###3.1 选择主题
