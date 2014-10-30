@@ -24,7 +24,7 @@
 	width:657px;
 }
 #journal-post h1 {
-	font-size:14px;
+	font-size:20px;
 	margin:.2em 0;
 	display:inline-block;
 	font-weight:bold;
@@ -44,7 +44,7 @@
 	border-left:solid 1px rgb(211,209,209);
 }
 #journal-post p.info {
-	font-size:14px;
+	font-size:20px;
 	margin:.2em 0;
 	display:inline-block;
 	font-weight:normal;
@@ -150,7 +150,7 @@
 	color:#FFF;
 	padding:3px 6px;
 	border-radius:3px;
-	font-size:14px;
+	font-size:20px;
 }
 #journal-articles-block span.draft-notice {
 	margin:3px 0 0 10px;
@@ -162,7 +162,7 @@
 }
 #journal-articles-block h1.journal-title span.author,#journal-articles-block h1.journal-title span.author a {
 	color:#808080;
-	font-size:14px;
+	font-size:20px;
 	font-weight:normal;
 	white-space:nowrap;
 	display:inline-block;
